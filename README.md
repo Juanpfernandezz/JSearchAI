@@ -6,13 +6,12 @@
 
 ## 📦 Estructura del proyecto
 
-´´´
+```
 JSearchAI/
 ├── backend/ → API NestJS para procesar PDFs y gestionar usuarios
 ├── frontend/ → (En desarrollo) Interfaz web en React o Next.js
 └── README.md → Información general del proyecto
-´´´
----
+```
 
 ## 🎯 Objetivo
 
